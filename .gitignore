@@ -1,0 +1,8 @@
+node_modules/
+config.env
+
+
+// DB_PASSWORD = ismael_magdy
+// DB_USER = ismael_magdy
+// DB_NAME =mynodeDB 
+// connection string = mongodb+srv://ismael_magdy:ismael_magdy@cluster0.gf76t3q.mongodb.net/?retryWrites=true&w=majority
